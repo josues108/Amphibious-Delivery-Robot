@@ -12,26 +12,28 @@ Although I have attached this BOM, if interested in adapting and building upon t
 as the water and land conversion can physically wear the bot's timing belt system causing loss of tension on the belts.
 
 Best of luck! Thanks for stopping by my Github. If any questions rise please feel free to reach out to me on LinkedIn @ www.linkedin.com/in/josuesgarcia  :)
+
 ~ Josue S. Garcia
 
 BOM:
+
 Receiver/ADR bot:
-1 x Raspberry Pico W
-2 x L298N Motor drivers
-1 x 12V 2800 mAh rechargeable Li-ion battery 
-1 x Junction box ABS IP65 electrical enclosure box
-1 x Freenove breakout board for Raspberry Pico W
-1 x LM2596S buck converter
-2 x 5mm bore idler pulleys for 6 mm width timing belt (toothless)
-2 x 5mm bore idler pulleys for 6 mm width timing belt (toothed)
-2 x Aluminum timing belt pulley 20&60 teeth 5 mm bore
-1 x 433 Mhz gmrs Antenna 
-1 x Adafruit rfm69hcw
-1 x premium robot tracked car chassis kit (used tracks, motors, and chassis as the refence for ADR chassis design)
+- 1 x Raspberry Pico W
+- 2 x L298N Motor drivers
+- 1 x 12V 2800 mAh rechargeable Li-ion battery 
+- 1 x Junction box ABS IP65 electrical enclosure box
+- 1 x Freenove breakout board for Raspberry Pico W
+- 1 x LM2596S buck converter
+- 2 x 5mm bore idler pulleys for 6 mm width timing belt (toothless)
+- 2 x 5mm bore idler pulleys for 6 mm width timing belt (toothed)
+- 2 x Aluminum timing belt pulley 20&60 teeth 5 mm bore
+- 1 x 433 Mhz gmrs Antenna 
+- 1 x Adafruit rfm69hcw
+- 1 x premium robot tracked car chassis kit (used tracks, motors, and chassis as the refence for ADR chassis design)
 
 Transmitter/controller:
-1 x Adafruit RP2040 Feather
-1 x Analog Joystick
-1 x Lipo battery
-1 x 433 Mhz gmrs Antenna 
-1 x Adafruit rfm69hcw
+- 1 x Adafruit RP2040 Feather
+- 1 x Analog Joystick
+- 1 x Lipo battery
+- 1 x 433 Mhz gmrs Antenna 
+- 1 x Adafruit rfm69hcw
